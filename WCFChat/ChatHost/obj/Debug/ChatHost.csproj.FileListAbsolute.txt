@@ -1,0 +1,11 @@
+E:\Project\VisualStudio\WCFChat\ChatHost\bin\Debug\ChatHost.exe.config
+E:\Project\VisualStudio\WCFChat\ChatHost\bin\Debug\ChatHost.exe
+E:\Project\VisualStudio\WCFChat\ChatHost\bin\Debug\ChatHost.pdb
+E:\Project\VisualStudio\WCFChat\ChatHost\bin\Debug\WCFChat.dll
+E:\Project\VisualStudio\WCFChat\ChatHost\bin\Debug\WCFChat.pdb
+E:\Project\VisualStudio\WCFChat\ChatHost\bin\Debug\WCFChat.dll.config
+E:\Project\VisualStudio\WCFChat\ChatHost\obj\Debug\ChatHost.csprojAssemblyReference.cache
+E:\Project\VisualStudio\WCFChat\ChatHost\obj\Debug\ChatHost.csproj.CoreCompileInputs.cache
+E:\Project\VisualStudio\WCFChat\ChatHost\obj\Debug\ChatHost.csproj.CopyComplete
+E:\Project\VisualStudio\WCFChat\ChatHost\obj\Debug\ChatHost.exe
+E:\Project\VisualStudio\WCFChat\ChatHost\obj\Debug\ChatHost.pdb
